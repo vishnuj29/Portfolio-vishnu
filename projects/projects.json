@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Password Strength & Breach Checker",
+    "desc": "A cybersecurity dashboard that evaluates password strength and detects whether the password has been exposed in known data breaches.",
+    "image": "password",
+    "category": "password",
+    "links": {
+      "view": "https://github.com/vishnuj29/password-analyzer",
+      "code": "https://github.com/vishnuj29/password-analyzer"
+    }
+  },
+  {
+    "name": "Phishing Email Detection",
+    "desc": "A machine learning based system that detects phishing emails using text classification and NLP techniques.",
+    "image": "email",
+    "category": "email",
+    "links": {
+      "view": "https://github.com/vishnuj29/Email-Detection",
+      "code": "https://github.com/vishnuj29/Email-Detection"
+    }
+  },
+  {
+    "name": "AI-Powered Sanitization Monitoring",
+    "desc": "Verifies wiping and sanitizer-spray actions and gives real-time feedback (Green Tick / Red Alert).",
+    "image": "ai",
+    "category": "ai",
+    "links": {
+      "view": "https://github.com/vishnuj29/AI-Sanitization",
+      "code": "https://github.com/vishnuj29/AI-Sanitization"
+    }
+  },
+  {
+    "name": "Agricultural Marketplace",
+    "desc": "Online marketplace connecting farmers, suppliers, and buyers. Secure payments and improved product visibility.",
+    "image": "fi",
+    "category": "fi",
+    "links": {
+      "view": "https://github.com/vishnuj29/AgriConnect",
+      "code": "https://github.com/vishnuj29/AgriConnect"
+    }
+  },
+  {
+    "name": "Mentor Matrix",
+    "desc": "Matches mentors and mentees based on skills and goals; increased pairing accuracy and engagement.",
+    "image": "mi",
+    "category": "mi",
+    "links": {
+      "view": "https://github.com/vishnuj29/Mentor_martix_project",
+      "code": "https://github.com/vishnuj29/Mentor_martix_project"
+    }
+  },
+  {
+    "name": "Swachh – Smart Waste Management System",
+    "desc": "Swachh is an AI + Blockchain powered waste management solution designed to make cities cleaner and smarter.",
+    "image": "sm",
+    "category": "sm",
+    "links": {
+      "view": "https://github.com/vishnuj29/project-SIH",
+      "code": "https://github.com/vishnuj29/project-SIH"
+    }
+  {
+    "name": "Modern Chair",
+    "desc": "A modern chair designed for comfort and aesthetics.",
+    "image": "ch",
+    "category": "ch",
+    "links": {
+      "view": "https://github.com/vishnuj29/morden-chair",
+      "code": "https://github.com/vishnuj29/morden-chair"
+    }
+  }
+]
