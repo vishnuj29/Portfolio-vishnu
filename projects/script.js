@@ -60,6 +60,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     new Typed(".typing-text", {
       strings: [
+        "Full Stack Developer",
         "Cybersecurity Enthusiast",
         "Software Development",
         "Web Development",
